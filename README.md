@@ -34,7 +34,7 @@ The NOT gate is a fundamental digital logic gate. It has a single input and a si
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: Divya M
 RegisterNumber: 23013162
-
+```
 module EX02DE(a,b,c,d,w,x,y,z,F1,F2);
 input a,b,c,d,w,x,y,z;
 output F1,F2;
@@ -52,7 +52,7 @@ assign B4=(w&(~x)&y);
 assign B5=(w&y&z);
 assign F2=B1|B2|B3|B4|B5;
 endmodule
-
+```
 */
 ## RTL realization
 ![Screenshot (179)](https://github.com/DivyaMunirathnamm/Experiment--02-Implementation-of-combinational-logic-/assets/147474097/29106b3d-a463-4451-8b1d-7e04d4e19d2f)
@@ -62,7 +62,6 @@ endmodule
 ![Screenshot (181)](https://github.com/DivyaMunirathnamm/Experiment--02-Implementation-of-combinational-logic-/assets/147474097/3679f249-83c4-42fd-b61d-ff0457f0725a)
 
 ## Truthtable
-![image](https://github.com/DivyaMunirathnamm/Experiment--02-Implementation-of-combinational-logic-/assets/147474097/009d2224-e082-45af-990e-688d2c6d1013)
 
 
 ## Result:
