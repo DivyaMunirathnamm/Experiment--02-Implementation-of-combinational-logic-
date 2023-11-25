@@ -9,7 +9,7 @@ To implement the given logic function verify its operation in Quartus using Veri
  Hardware – PCs, Cyclone II , USB flasher
  Software – Quartus prime
 
-## Theory
+## Theory:
  Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output.
 
 OR Gate:
@@ -53,14 +53,14 @@ assign F2=B1|B2|B3|B4|B5;
 endmodule
 ```
 */
-## RTL realization
+## RTL realization:
 ![Screenshot (179)](https://github.com/DivyaMunirathnamm/Experiment--02-Implementation-of-combinational-logic-/assets/147474097/29106b3d-a463-4451-8b1d-7e04d4e19d2f)
 ![Screenshot (180)](https://github.com/DivyaMunirathnamm/Experiment--02-Implementation-of-combinational-logic-/assets/147474097/b75229a4-a95a-47a6-9c43-eb70ebce671f)
 
-## Timing Diagram
+## Timing Diagram:
 ![Screenshot (181)](https://github.com/DivyaMunirathnamm/Experiment--02-Implementation-of-combinational-logic-/assets/147474097/3679f249-83c4-42fd-b61d-ff0457f0725a)
 
-## Truthtable
+## Truthtable:
 
 ![Screenshot (182)](https://github.com/DivyaMunirathnamm/Experiment--02-Implementation-of-combinational-logic-/assets/147474097/8519dd1c-bd0c-46b6-a19e-5d2a1fa941f7)
 
