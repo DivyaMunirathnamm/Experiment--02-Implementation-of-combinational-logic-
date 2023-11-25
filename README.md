@@ -1,10 +1,9 @@
 # Experiment--02-Implementation-of-combinational-logic
-
  
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
-F2=xy’z+x’y’z+w’xy+wx’y+wxy
+ F2=xy’z+x’y’z+w’xy+wx’y+wxy
  
 ## Equipments Required:
  Hardware – PCs, Cyclone II , USB flasher
@@ -63,6 +62,7 @@ endmodule
 
 ## Truthtable
 
+![Screenshot (182)](https://github.com/DivyaMunirathnamm/Experiment--02-Implementation-of-combinational-logic-/assets/147474097/8519dd1c-bd0c-46b6-a19e-5d2a1fa941f7)
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
